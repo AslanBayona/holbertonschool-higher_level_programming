@@ -1,3 +1,2 @@
---0-list_database.sql
---script that list all databases of you MySQL sserver
+-- Script that lists all databases of your MySQL server
 SHOW DATABASES;
